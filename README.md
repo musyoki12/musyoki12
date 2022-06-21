@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @musyoki12
-- 👀 I’m interested in learning python and am ready for any assistance..
+- 👀 I’m interested in learning python & javasript and am ready for any assistance..
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on any coding activity ...
 - 📫 How to reach me ...reach me @vincenbryaniel@gmail.com
