@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @musyoki12
-- 👀 I’m interested in learning python & javasript and am ready for any assistance..
-- 🌱 I’m currently learning ...
+- 👀 I’m a developer and i'm interested in learning python ,javasript,react and any other fun language.Am  ready for any assistance..
+- 🌱 I’m currently learning .React and Ruby..
 - 💞️ I’m looking to collaborate on any coding activity ...
 - 📫 How to reach me ...reach me @vincenbryaniel@gmail.com
 
